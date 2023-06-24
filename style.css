@@ -1,0 +1,35 @@
+h1{
+  color: rgba(212, 152, 21, 0.829);  
+  border-color: antiquewhite;
+  background-color: antiquewhite;
+  width: 250px;
+margin-right: 50%;
+margin-left: 50%;
+  text-align: center;
+}
+#important
+{
+    background-color: antiquewhite;
+    border-radius: 50px;
+    border-color: black;
+    margin-left: 5%;
+    
+}
+#events
+{
+    background-color: antiquewhite;
+    border-radius: 30px;
+    border-color: black;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+#festivals
+{
+    background-color: antiquewhite;
+    border-radius: 50px;
+    border-color: black;
+    margin-left: 5%; 
+    margin-bottom: 5%;
+
+    }
